@@ -1,5 +1,5 @@
 void main() {
-//Declare variables
+    //Declare variables
     int numToExamine = 9;
 
     //Processing
